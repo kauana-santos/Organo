@@ -1,0 +1,35 @@
+footer{
+    width: 100%;
+    height: fit-content;
+    background-color: #6278f7;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+footer .redesSociais{
+    display: flex;
+    align-items: center;
+    
+}
+
+footer .redesSociais img{
+    padding: 8px;
+    height: 48px;
+}
+
+footer .logo img{
+    height: 50px;
+}
+
+footer .dev {
+    display: flex;
+    align-items: center;
+}
+
+footer .dev p{
+    color: #ffff;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px #a49f9f;
+}
